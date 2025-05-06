@@ -115,4 +115,4 @@ deactivate
 
 ---
 
-🧑‍💻 Developed with ❤️ using Python, WebSockets & Streamlit.
+🧑‍💻 Developed by Srinivas Anjoori using Python, WebSockets & Streamlit.
