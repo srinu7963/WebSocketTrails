@@ -1,0 +1,9 @@
+# For the WebSocket backend
+websockets==12.0
+
+# For the frontend dashboard
+streamlit==1.35.0
+streamlit-autorefresh==1.0.1
+
+# Dependencies used internally by Streamlit
+pandas>=1.0
